@@ -1,1 +1,1 @@
-When in Port Jeuno, if you have a Comso Cleanse, "Don't Drop The Soap" will be in green. If you do not have a Cosmo Cleanse, "Don't Drop The Soap" will be in red.
+When in Port Jeuno, and you do not have the KI "Cosmo-Clense" a popup saying "Pickup Soap!" will be on screen. Never have to sit out on limbus night again.
